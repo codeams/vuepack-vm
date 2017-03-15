@@ -1,4 +1,10 @@
-# vue-webpack-boilerplate
+# vue-webpack
+
+## Fork's purpose
+
+Modifies dev-server middleware to make live reload of synched files possible (VMs shared files, cloud services).
+
+## vue-webpack-boilerplate
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
