@@ -2,7 +2,7 @@
 
 ## Fork's purpose
 
-Modifies dev-server middleware to make live reload of synched files possible (VMs shared files, cloud services).
+Modify the dev-server middleware to make possible the live reload of VM shared files.
 
 ## vue-webpack-boilerplate
 
